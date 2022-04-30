@@ -5,17 +5,11 @@
   {"source": "舌苔厚","target": "婴幼儿疾病","relation": "node2->node1","value": 1},
   {"source": "风疹", "target": "婴幼儿疾病", "relation": "node3->node1", "value": 1},
   {"source": "感冒", "target": "婴幼儿疾病", "relation": "node5->node5", "value": 1},
-  {"source": "病毒感染","target": "夜间哭闹","relation": "node2->node1","value": 1},
-  {"source": "皮肤过敏", "target": "夜间哭闹", "relation": "node3->node1", "value": 1},
   {"source": "退烧贴", "target": "婴幼儿用品", "relation": "node5->node5", "value": 1},
   {"source": "口水巾","target": "婴幼儿用品","relation": "node2->node1","value": 1},
   {"source": "鱼肝油", "target": "婴幼儿用品", "relation": "node3->node1", "value": 1},
   {"source": "维生素c", "target": "婴幼儿用品", "relation": "node5->node5", "value": 1},
-  {"source": "婴儿洗衣皂","target": "婴幼儿用品","relation": "node2->node1","value": 1},
-  {"source": "鱼肝油", "target": "维生素c", "relation": "node3->node1", "value": 1},
-  {"source": "退烧帖", "target": "感冒", "relation": "node5->node5", "value": 1},
-  {"source": "口水巾", "target": "婴儿洗衣皂", "relation": "node5->node5", "value": 1},
-  {"source": "舌苔厚", "target": "婴儿洗衣皂", "relation": "node5->node5", "value": 1}],
+  {"source": "婴儿洗衣皂","target": "婴幼儿用品","relation": "node2->node1","value": 1}],
 
  "nodes": [
   {"class": "精品特色菜", "group": "0", "size": "10", "id": "婴幼儿疾病"},
