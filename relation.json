@@ -25,7 +25,7 @@
   {"source": "辅食", "target": "婴幼儿饮食", "relation": "包含", "value": 1},
   {"source": "喂养", "target": "婴幼儿饮食", "relation": "包含", "value": 1},
   {"source": "断奶","target": "婴幼儿饮食","relation": "包含","value": 1},
-  {"source": "母乳储存", "target": "婴幼儿饮食", "relation": "包含", "value": 1},
+  {"source": "母乳存储", "target": "婴幼儿饮食", "relation": "包含", "value": 1},
   {"source": "吐奶", "target": "喂养", "relation": "包含", "value": 1},
   {"source": "断奶", "target": "喂养", "relation": "包含", "value": 1},
   {"source": "母乳存储", "target": "喂养", "relation": "包含", "value": 1},
