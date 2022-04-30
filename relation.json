@@ -9,6 +9,7 @@
   {"source": "口水巾","target": "婴幼儿用品","relation": "node2->node1","value": 1},
   {"source": "鱼肝油", "target": "婴幼儿用品", "relation": "node3->node1", "value": 1},
   {"source": "维生素c", "target": "婴幼儿用品", "relation": "node5->node5", "value": 1},
+  {"source": "皮肤过敏", "target": "夜间哭闹", "relation": "node3->node1", "value": 1},
   {"source": "婴儿洗衣皂","target": "婴幼儿用品","relation": "node2->node1","value": 1}],
 
  "nodes": [
